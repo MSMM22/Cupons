@@ -1,0 +1,6 @@
+@MSCupons_HostAddress = http://localhost:5062
+
+GET {{MSCupons_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
